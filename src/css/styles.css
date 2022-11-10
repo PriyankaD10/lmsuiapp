@@ -1,0 +1,75 @@
+.formStyle {
+    text-align: left;
+    margin: 10px 10px;
+    }
+    
+    .label{
+    display: block;
+    font-size: small;
+    color: white;
+    padding: 5px;
+    text-align: justify;
+    }
+    .tableheader{
+        font-size: medium;
+        color: black;
+        }
+        .coldata{
+            font-size: small;
+            color: black;
+            }
+    
+    .input-container{
+    font-size: small;
+    padding: 5px;
+    margin: 2px; 
+    }
+
+    .title{
+        font-size: medium;
+        margin: 10px 10px;
+    }
+    .container{
+    color: rgb(22 22 22);
+    background-color: #cedeef;
+    border-radius: 5px;
+    font-size: small;
+    display: block;
+    padding: 5px;
+    margin: 10px auto;
+    }
+    .button-container{
+        font-size: small;
+        padding: 5px;
+        margin: 2px;
+    }
+    .primaryBtn {
+    color: rgb(22 22 22);
+    background-color: white;
+    border-radius: 5px;
+    font-size: small;
+    display: block;
+    padding: 5px;
+    /* margin: 10px auto; */
+    }
+    .messages{
+    display: flex;
+    justify-content: center;
+    }
+    
+    .error{
+    display: block;
+    color: red;
+    width: fit-content;
+    padding: 5px;
+    }
+    
+    .success{
+    display: block;
+    background-color: lightblue;
+    color: black;
+    width: fit-content;
+    height: 50px;
+    padding: 5px;
+    }
+ 
