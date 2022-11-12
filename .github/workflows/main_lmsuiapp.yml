@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'lmsuiapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1759481F9236471192DC33B0356B4ED7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F1CB40A741342ABBF649A1A1809337D }}
           package: .
