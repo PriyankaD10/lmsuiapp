@@ -1,4 +1,5 @@
 import './App.css';
+import React, { Component }  from 'react';
 import LoginPage from './components/LoginPage';
 import RegisterUsers from './components/RegisterUsers.js'
 import Dashboard from './components/Dashboard';
